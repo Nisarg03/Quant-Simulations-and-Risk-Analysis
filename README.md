@@ -54,6 +54,13 @@ This ensures stock prices remain positive and captures realistic randomness in p
 
 ---
 
+## Example Output
+
+![Portfolio Simulation Output](https://github.com/Nisarg03/Quant-Simulations-and-Risk-Analysis/blob/main/Portfolio_MonteCarlo_Figure.png)
+
+
+---
+
 ## 💡 Why This Matters  
 
 In my work and academic projects, I’ve focused heavily on **modeling uncertainty**, whether in financial, scientific, or operational contexts. This simulation project extends those skills to finance, showing:  
