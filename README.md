@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I’m **Nisarg** — a Research Analyst at Trent University with a Master’s in **Big Data Analytics**, passionate about applying statistical modeling, simulations, and risk analysis to real-world problems.  
+Hi, I’m **Nisarg** — a Research Assistant at Trent University with a Master’s in **Big Data Analytics**, passionate about applying statistical modeling, simulations, and risk analysis to real-world problems.  
 
 This project documents my exploration into **quantitative finance**, where I combine my academic background in data-driven research with hands-on coding to simulate stock price behavior, assess portfolio risk, and analyze uncertainty.  
 
@@ -51,12 +51,6 @@ This ensures stock prices remain positive and captures realistic randomness in p
 - Visualizes results with **path plots and histograms**  
 - Applies **correlation structures** via matrix decomposition for multi-asset portfolios  
 - Quantifies risk with **Value at Risk (VaR)** and **probability of loss**  
-
----
-
-## 📊 Example Outputs  
-
-*(Sample GBM and Monte Carlo plots would go here — same as in original repo)*  
 
 ---
 
