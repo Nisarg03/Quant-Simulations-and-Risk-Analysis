@@ -2,7 +2,7 @@
 
 ---
 
-Hi, I’m **Nisarg** — a Research Assistant at Trent University with a Master’s in **Big Data Analytics**, passionate about applying statistical modeling, simulations, and risk analysis to real-world problems.  
+Hi, I’m **Nisarg**, a Research Assistant at Trent University with a Master’s in **Big Data Analytics**, passionate about applying statistical modeling, simulations, and risk analysis to real-world problems.  
 
 This project documents my exploration into **quantitative finance**, where I combine my academic background in data-driven research with hands-on coding to simulate stock price behavior, assess portfolio risk, and analyze uncertainty.  
 
@@ -58,6 +58,16 @@ This ensures stock prices remain positive and captures realistic randomness in p
 
 ![Portfolio Simulation Output](https://github.com/Nisarg03/Quant-Simulations-and-Risk-Analysis/blob/main/Portfolio_MonteCarlo_Figure.png)
 
+---
+
+## Visualizing the Results
+
+* **Left plot:** 10,000 simulated portfolio paths over time
+* **Right plot:** Histogram of ending portfolio values
+
+  * Red line = 95% Value at Risk (VaR)
+  * Orange line = \$100,000 initial value
+  * Text box = risk summary (VaR and % chance of loss)
 
 ---
 
